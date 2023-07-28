@@ -229,7 +229,7 @@
       <name>input_store_name</name>
    </variable>
    <variable>
-      <defaultValue>'store-test-automation-05'</defaultValue>
+      <defaultValue>'store-test-automation-06'</defaultValue>
       <description></description>
       <id>7617a466-f1bf-42e0-906d-6b70db97a148</id>
       <masked>false</masked>
