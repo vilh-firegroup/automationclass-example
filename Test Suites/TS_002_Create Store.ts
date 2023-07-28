@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_001</name>
+   <name>TS_002_Create Store</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,58 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>1b9861a4-8d98-4312-9d7a-ea7878ce9086</testSuiteGuid>
+   <testSuiteGuid>3fbed532-5697-4b34-a0fe-f499d08c5309</testSuiteGuid>
    <testCaseLink>
-      <guid>7aa88a72-0406-42aa-9304-d89c06a9c250</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Shopify/TC_001_Login Shopify Partner</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>30a6b76f-405b-4c1e-9d8f-1525a172603e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>91ec69cf-1cd5-42a4-888b-2622036590b6</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>65bb5670-7c9d-4e0a-b453-adca24642c5a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>35e7a600-536d-48fe-a230-11a3244331ac</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3377687a-9e55-4f13-a8c0-dbe62e0cb872</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>501ef846-6496-417b-a5aa-ef5c54d99cc7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5297262e-21fb-48a8-b3d9-29e05b42a488</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>31b0dc45-756f-423f-a40a-1e60065ed111</guid>
+      <guid>17726086-243f-40dc-891a-854fb89de4e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Shopify/TC_002_Create Account Shopify</testCaseId>
