@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_002_Create Store</name>
+   <name>TS_002_Create Account Shopify</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>3fbed532-5697-4b34-a0fe-f499d08c5309</testSuiteGuid>
+   <testSuiteGuid>1b9861a4-8d98-4312-9d7a-ea7878ce9086</testSuiteGuid>
    <testCaseLink>
-      <guid>17726086-243f-40dc-891a-854fb89de4e1</guid>
+      <guid>73e77024-5533-47a3-b564-ac914ed30fd4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Shopify/TC_002_Create Account Shopify</testCaseId>
