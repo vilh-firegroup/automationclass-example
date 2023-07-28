@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>ENV_DEMO1</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://auto2023.myshopify.com/'</initValue>
+      <name>demo_url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

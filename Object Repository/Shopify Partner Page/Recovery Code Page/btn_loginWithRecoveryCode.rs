@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_loginWithRecoveryCode</name>
+   <tag></tag>
+   <elementGuidId>139dcb1d-4aa1-4e7d-a1d4-9fb9c36295e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;commit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>056f5d60-fac4-406f-9e0c-22c5d99d6f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button ui-button--primary ui-button--full-width  captcha__submit</value>
+      <webElementGuid>28a129f3-7350-4b99-bfab-bd7e56a1d0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>21c4a55f-6ad8-48ba-acb2-2db6d8d07744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>commit</value>
+      <webElementGuid>11bb5a3f-f255-4edb-8df4-542baa64236a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d65aafaa-c20b-47b4-8832-148e5b182cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind-disabled</name>
+      <type>Main</type>
+      <value>captchaDisabled</value>
+      <webElementGuid>865bc21f-a7e3-4500-aba4-15071ecc6aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>define</name>
+      <type>Main</type>
+      <value>{localClass: new CaptchaStateHandler($context, {
+                            v2Completed: true,
+                            v3EnterpriseCompleted: false,
+                            formCompleted: true,
+                          })}</value>
+      <webElementGuid>fb2fd37d-567b-4214-85a3-d2b7ad01661c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enable_submit_onload</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d83fe601-d76c-49b3-9801-644dd85107a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>e689098c-86c1-4446-88a1-c74c9522a7b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-content&quot;)/div[2]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-main&quot;]/div[@class=&quot;page-content with-shadow&quot;]/div[@class=&quot;login-card&quot;]/div[@class=&quot;login-card__content&quot;]/div[@class=&quot;main-card-section&quot;]/div[@class=&quot;ui-stack ui-stack--wrap ui-stack--vertical ui-stack--spacing-loose&quot;]/form[@class=&quot;restyle2020-form&quot;]/div[@class=&quot;ui-stack ui-stack--wrap ui-stack--vertical ui-stack--spacing-loose&quot;]/div[4]/button[@class=&quot;ui-button ui-button--primary ui-button--full-width  captcha__submit&quot;]</value>
+      <webElementGuid>b150d0fc-fa59-4afc-8b3e-97badb429352</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='commit']</value>
+      <webElementGuid>16751541-0ae0-4ccb-9697-23d0d1f4239b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body-content']/div[2]/div/div[2]/div/div/div[2]/div/div/form/div/div[4]/button</value>
+      <webElementGuid>ef86837f-e723-4234-932a-4ccf25b4f504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication code'])[1]/following::button[1]</value>
+      <webElementGuid>62baa80e-d265-4097-962f-ef4fb39324c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use a recovery code'])[1]/following::button[1]</value>
+      <webElementGuid>8879bb8c-cd95-45a5-b92b-4e0f528db8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use another authentication method'])[1]/preceding::button[1]</value>
+      <webElementGuid>70553f13-93b2-4504-a0b7-b8c981208867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the authentication app'])[1]/preceding::button[1]</value>
+      <webElementGuid>04747787-fb1e-4e58-b0de-68f11b52edf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>a2950e32-da59-47d5-88a1-098bf7bee013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>da23fafb-5ed5-42ab-a877-816a673fc484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'commit' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>cf9a5799-a21a-4dcf-8916-74d0192bbc83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_recoveryCode</name>
+   <tag></tag>
+   <elementGuidId>432dc8bb-7f12-46ec-bded-f3a3e8667f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='body-content']/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d2b3eeb1-eff7-44a5-99f2-4c27aeb7c6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/two-factor/recovery-code/11482879?rid=f2a5f2ba-07de-4a2a-9cce-5577f41d6ea6&amp;send_code=true</value>
+      <webElementGuid>e4271359-194f-4875-bbad-b5432fb60e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use a recovery code</value>
+      <webElementGuid>324b111c-735a-46e4-b400-891ae0c74c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-content&quot;)/div[2]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-main&quot;]/div[@class=&quot;page-content with-shadow&quot;]/div[@class=&quot;login-card&quot;]/div[@class=&quot;login-card__content&quot;]/div[@class=&quot;main-card-section&quot;]/div[@class=&quot;ui-stack ui-stack--wrap ui-stack--vertical ui-stack--spacing-loose&quot;]/div[@class=&quot;ui-stack ui-stack--wrap ui-stack--vertical ui-stack--spacing-tight&quot;]/a[3]</value>
+      <webElementGuid>bdb2b461-a89a-4a5f-9203-4506f997b2c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body-content']/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/a[3]</value>
+      <webElementGuid>dcb14ea2-bcc2-4412-9136-510cc713ac64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Use a recovery code')]</value>
+      <webElementGuid>657b84dd-ed9d-4909-8980-3dcb0a7584e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send code to phone (••• ••• ••06)'])[1]/following::a[1]</value>
+      <webElementGuid>f1e9d71a-6299-46b9-a313-e79acff08e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send code to phone (••• ••• ••64)'])[1]/following::a[2]</value>
+      <webElementGuid>81855531-4892-46ee-9733-b151f10eb4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recover my account'])[1]/preceding::a[1]</value>
+      <webElementGuid>6745b926-e624-42d5-9612-2219aa86c778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::a[2]</value>
+      <webElementGuid>91572a59-0c5c-484e-b57c-81a157b6aaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use a recovery code']/parent::*</value>
+      <webElementGuid>9c5f91be-748f-40bb-898d-764e62dd073f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/two-factor/recovery-code/11482879?rid=f2a5f2ba-07de-4a2a-9cce-5577f41d6ea6&amp;send_code=true')]</value>
+      <webElementGuid>8e15930e-78af-4c33-8156-cfd5b4f3d62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>b6114c79-f5d4-4122-bb52-54c81b3d91ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/two-factor/recovery-code/11482879?rid=f2a5f2ba-07de-4a2a-9cce-5577f41d6ea6&amp;send_code=true' and (text() = 'Use a recovery code' or . = 'Use a recovery code')]</value>
+      <webElementGuid>6121e498-5b4b-4e7f-b4f5-b6252587a15c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

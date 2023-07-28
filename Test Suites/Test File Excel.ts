@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test File Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>448edae7-41b2-4492-93d2-112ca2976122</testSuiteGuid>
+   <testCaseLink>
+      <guid>9b85d936-3120-46df-9c40-fa43422ef5b3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Shopify/Open Browser</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2145db1c-93ba-4044-b96d-315284778905</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Sample</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>15cfb444-80bf-4658-b72c-31dc4ca697eb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c9d7e800-7f2e-4de9-b91d-5cd9698a879c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>97b2ef81-cfe6-4535-8446-0974f0418d12</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08068474-7222-4773-87e9-0d1c2f4d9499</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2145db1c-93ba-4044-b96d-315284778905</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0eb7e87e-8c6f-4a78-9c9b-1aa75e8c2b09</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2145db1c-93ba-4044-b96d-315284778905</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a552cd33-ed7a-411a-83f4-99304e32f009</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
