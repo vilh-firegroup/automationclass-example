@@ -201,7 +201,7 @@
       <name>button_add_store</name>
    </variable>
    <variable>
-      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/btn_create_development_store_1')</defaultValue>
+      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/btn_create_dev_store_1')</defaultValue>
       <description></description>
       <id>65ebfe90-7b7d-4ea4-8221-164458cd6657</id>
       <masked>false</masked>
@@ -215,7 +215,7 @@
       <name>rdb_create_store_for_client</name>
    </variable>
    <variable>
-      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/rdb_create_store_test_and_build')</defaultValue>
+      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/rdb_select_test_and_build')</defaultValue>
       <description></description>
       <id>e03a83c9-54f2-408a-b35b-c0e0bd01eee4</id>
       <masked>false</masked>
@@ -264,7 +264,7 @@
       <name>rdb_start_with_test_data</name>
    </variable>
    <variable>
-      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/btn_create_development_store_2')</defaultValue>
+      <defaultValue>findTestObject('Shopify Partner Page/Create Store Test Partner - Bai 3 - Bai 5/btn_create_dev_store_2')</defaultValue>
       <description></description>
       <id>0899a4e8-f207-4719-82dd-0b1246866c51</id>
       <masked>false</masked>

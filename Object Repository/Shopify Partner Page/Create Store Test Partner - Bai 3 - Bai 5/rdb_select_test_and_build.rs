@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_create_development_store_1</name>
+   <name>rdb_select_test_and_build</name>
    <tag></tag>
-   <elementGuidId>e982106a-23ff-4232-aed9-d82aa3015911</elementGuidId>
+   <elementGuidId>791b76cb-4fd5-4892-a85f-55b0ed3c939e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='Polaris-ActionList__Text'][contains(.,'Create development store')]</value>
+         <value>//input[@name='PolarisChoiceList1' and @value='test_store']/parent::span</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

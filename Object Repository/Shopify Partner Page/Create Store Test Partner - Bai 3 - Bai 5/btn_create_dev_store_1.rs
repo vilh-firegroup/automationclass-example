@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_create_development_store_2</name>
+   <name>btn_create_dev_store_1</name>
    <tag></tag>
-   <elementGuidId>4504a34c-6993-4e4d-a320-0d076b854a55</elementGuidId>
+   <elementGuidId>e982106a-23ff-4232-aed9-d82aa3015911</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='create-new-store-button' and @type='button']</value>
+         <value>//span[@class='Polaris-ActionList__Text'][contains(.,'Create development store')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
